@@ -13,9 +13,14 @@ Use ```run.py``` to run the gradio app. The yolov5 model is stored within ```las
 
 ## Examples
 
-  Awake             |  Looking Away |  Drowsy
-:-------------------------:|:-------------------------: |:-------------------------:
-![awake](https://github.com/tanishq150802/Engagement_Monitoring_System/assets/81608921/72f2f2d5-cc03-4316-9caa-0d1609796bd5) |  ![looking_away](https://github.com/tanishq150802/Engagement_Monitoring_System/assets/81608921/7c17e207-8a96-4d24-b7a2-d723b2aa908d) |  ![drowsy](https://github.com/tanishq150802/Engagement_Monitoring_System/assets/81608921/d7bd99cf-ede4-4ca5-a8b6-5ad9846ca47c)
+### Awake            
+![awake](https://github.com/tanishq150802/Engagement_Monitoring_System/assets/81608921/72f2f2d5-cc03-4316-9caa-0d1609796bd5) 
+
+### Looking Away
+![looking_away](https://github.com/tanishq150802/Engagement_Monitoring_System/assets/81608921/7c17e207-8a96-4d24-b7a2-d723b2aa908d) 
+
+### Drowsy
+![drowsy](https://github.com/tanishq150802/Engagement_Monitoring_System/assets/81608921/d7bd99cf-ede4-4ca5-a8b6-5ad9846ca47c)
 
 
 ## Requirements
@@ -37,3 +42,7 @@ Use ```run.py``` to run the gradio app. The yolov5 model is stored within ```las
 ## References
 * [Microsoft's Phi-1.5](https://huggingface.co/microsoft/phi-1_5)
 * [Webcam spaces](https://huggingface.co/spaces/gradio/webcam)
+
+## Future Scope
+* To structure the output alert text.
+* To improve the UI.
